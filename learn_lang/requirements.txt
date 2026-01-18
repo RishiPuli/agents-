@@ -3,4 +3,6 @@ langchain-openai
 langchain_community
 langchain-groq
 langchain-google-genai
+langchain-ollama
 google-generativeai
+python-dotenv
